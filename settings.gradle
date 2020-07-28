@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='My_atten_lapi-v.3.5'
